@@ -14,13 +14,13 @@ I am currently working through the following MITx courses:
 
 ## Purpose
 
-I created this repository to properly timeline my progress, stay accountable, and have a structured way to refer back to my notes later.
+I created this repository to properly timeline my progress, stay accountable, and have a structured way to refer back to my notes later. Also a place to put all course related experiments
 
 ---
 
 ## Notes
 
-- Notes are uploaded as images to preserve the original work and thinking process  
+- Notes are uploaded as images to preserve the original work.
 - This repository is focused on understanding rather than polished presentation  
 
 ---
